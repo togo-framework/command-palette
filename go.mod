@@ -1,4 +1,4 @@
-module github.com/fadymondy/command-palette
+module github.com/togo-framework/command-palette
 
 go 1.26.4
 

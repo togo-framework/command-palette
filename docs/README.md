@@ -2,13 +2,13 @@
 
 A cmd-K Raycast-style overlay: client-side fuzzy ranking over cached resource lists + quick actions (theme, locale, CV, contact), recents, full keyboard nav, en/ar + RTL.
 
-- **Source:** https://github.com/fadymondy/command-palette
+- **Source:** https://github.com/togo-framework/command-palette
 - **Reference app:** https://fadymondy.com
 
 ## Install
 
 ```bash
-togo install fadymondy/command-palette
+togo install togo-framework/command-palette
 ```
 
 The plugin self-registers on blank-import (no manual wiring). See the top-level
